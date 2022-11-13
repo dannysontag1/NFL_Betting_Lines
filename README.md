@@ -21,3 +21,11 @@ As legalized sports betting continues to grow, the amount of money wagered on sp
 4. Open "NFL Data and Sport Betting Analysis.ipynb" and run the program
 
 ## Requirements Met
+My project has met the following requires outlined by Code Kentucky:
+1. Read TWO data files (JSON, CSV, Excel, etc.). 
+2. Clean your data and perform a pandas merge with your two data sets, then calculate some new values based on the new data set.  
+3. Clean your data and perform a SQL join with your data sets using either plain sql or the pandasql Python library.
+4. Make 3 matplotlib or seaborn (or another plotting library) visualizations to display your data.
+5. Utilize a virtual environment and include instructions in your README on how the user should set one up
+6. Annotate your code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md. Tidy up your notebook, and make sure you don’t have any empty cells or incomplete cells that don’t do anything. Make sure it’s all functional before your final github commit.
+
