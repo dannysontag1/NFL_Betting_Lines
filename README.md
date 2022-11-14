@@ -5,7 +5,7 @@ Author: Daniel Sontag
 
 
 ## INTRODUCTION
-As legalized sports betting continues to grow, the amount of money wagered on sporting events is hitting unprecedented levels. With the ease to access large data samples, the ability to identify trends is not only interesting but could also be profitable. The predictive data models created by the Sportsbooks are factoring in hundreds of variables to mitigate the risk of the casinos. During my project, I wanted to look at a few of these variables to see if there was any correlation to an outcome. With the casinos having the ability to move the lines to balance their risk, I wanted to identify teams with a stronger track record of covering spreads in the recent years (10 year sample size). 
+As legalized sports betting continues to grow, the amount of money wagered on sporting events is hitting unprecedented levels. With the ease to access large data samples, the ability to identify trends is not only interesting but could also be profitable. The predictive data models created by the Sportsbooks are factoring in hundreds of variables to mitigate the risk of the casinos. During my project, I wanted to look at a few of these variables to see if there was any correlation to an outcome. With the casinos having the ability to move the lines to balance their risk, I wanted to identify teams with a strong track record of covering spreads in the recent years (10 year sample size). 
 
 ## Cloning Repo and Installing Relevant Packages
 1. Confirm that a version of Python 3 has been installed on your local machine
